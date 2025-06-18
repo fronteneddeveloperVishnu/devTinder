@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Dev tinder app for developer",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/app.js",
+    "start": "node src/app.js"
+  },
+  "keywords": [
+    "node-js",
+    "javascript"
+  ],
+  "author": "Vishnu Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
